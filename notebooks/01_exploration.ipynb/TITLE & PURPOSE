@@ -1,0 +1,9 @@
+# Data Collection: PM2.5 Air Quality Data
+
+## Purpose
+This notebook is responsible for ingesting raw PM2.5 air quality data from
+public sources. The data collected here is saved in its original form and will
+be cleaned and processed in subsequent notebooks.
+
+No data cleaning or analysis is performed in this notebook.
+
